@@ -107,10 +107,6 @@ python predict.py <tweet.txt> SVM
  - The server will start on the address http://127.0.0.1:5000 [if port 5000 is not occupied]
 
 
-## License
-
-This repo has a MIT License.
-
 
 ## References
 
