@@ -10,7 +10,6 @@
 * [Datasets](#Datasets)
 * [Data Science Pipeline](#Data-Science-Pipeline)
 * [Usage](#Usage)
-* [License](#License)
 * [References](#References)
 
 <!-- * [License](#license) -->
