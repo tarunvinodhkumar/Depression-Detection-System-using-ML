@@ -1,11 +1,6 @@
-![](https://img.shields.io/github/license/miladrezazadeh/twitter_depression_detection?style=flat-square)
-![](https://img.shields.io/github/repo-size/miladrezazadeh/twitter_depression_detection)
 
-# Twitter Depression Detection
 
-<div class="verticalcenter">
-<img src = "https://github.com/miladrezazadeh/twitter_depression_detection/blob/main/img/app.png?raw=true" align="middle"> 
-</div>
+# Twitter Depression Detection using ML
 
 ## Table of Contents
 
@@ -26,10 +21,6 @@ Social media platforms such as Twitter, Instagram and Facebook play dominant rol
 
 Depression is the most common mental disorder which is more than just being sad. Some signs of depression are lack of interest in daily activities, significant weight loss or gain, insomnia or excessive sleeping, lack of energy, inability to concentrate, feelings of worthlessness or excessive guilt and in severe cases recurrent thoughts of death or suicide. Auspiciously, depression is treatable. The treatment is a combination of therapy and antidepressant medication.
 
-<div class="verticalcenter">
-<img src = "https://github.com/miladrezazadeh/twitter_depression_detection/blob/main/img/depression.png?raw=true" align="middle"> 
-</div>
-
 
 ## Background and Motivation
 
@@ -49,11 +40,9 @@ The goal of this project is to implement supervised machine learning techniques 
 
 We need two types of datasets one with tweets containing depressive characteristic which is obtained from twitter API and the other one with random tweets.
 
-1. Data mining more than 20K tweets by using [Twitter API and Tweepy library](https://github.com/miladrezazadeh/twitter_depression_detection/blob/main/notebooks/data_gathering_twitter_API.ipynb). The raw data retrieved from Twitter can be find [here](https://github.com/miladrezazadeh/twitter_depression_detection/tree/main/data/raw/scrapped).  
+1. Random tweets has been extracted from the [Kaggle datasets](https://www.kaggle.com/ywang311/twitter-sentiment/data). 
 
-2. Random tweets has been extracted from the [Kaggle datasets](https://www.kaggle.com/ywang311/twitter-sentiment/data). 
-
-The processed dataset used for training machine learning algorithms can be find [here](https://github.com/miladrezazadeh/twitter_depression_detection/tree/main/data/processed).
+The processed dataset used for training machine learning algorithms can be find [here](https://github.com/tarunvinodhkumar/Depression-Detection-System/tree/main/data/processed).
 
 
 ## Data Science Pipeline:
